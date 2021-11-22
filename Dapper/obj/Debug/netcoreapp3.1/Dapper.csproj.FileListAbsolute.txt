@@ -1,0 +1,13 @@
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\bin\Debug\netcoreapp3.1\Dapper.deps.json
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\bin\Debug\netcoreapp3.1\Dapper.pdb
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\bin\Debug\netcoreapp3.1\Domain.dll
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\obj\Debug\netcoreapp3.1\Dapper.csproj.AssemblyReference.cache
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\obj\Debug\netcoreapp3.1\Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\obj\Debug\netcoreapp3.1\Dapper.AssemblyInfoInputs.cache
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\obj\Debug\netcoreapp3.1\Dapper.AssemblyInfo.cs
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\obj\Debug\netcoreapp3.1\Dapper.csproj.CoreCompileInputs.cache
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\obj\Debug\netcoreapp3.1\Dapper.csproj.CopyComplete
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\obj\Debug\netcoreapp3.1\Dapper.dll
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Dapper\obj\Debug\netcoreapp3.1\Dapper.pdb

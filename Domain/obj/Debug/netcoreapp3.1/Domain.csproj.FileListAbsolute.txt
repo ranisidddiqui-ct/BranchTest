@@ -1,0 +1,10 @@
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\CTWorkspace\RepositoryPattern\RepositoryTemplate\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
